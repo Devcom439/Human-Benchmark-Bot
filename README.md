@@ -10,9 +10,7 @@ This project automates several tests from the [Human Benchmark](https://humanben
 - [Usage](#usage)
   - [Running a Test](#running-a-test)
   - [Available Tests](#available-tests)
-  - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -75,6 +73,6 @@ You can run the following tests by calling their respective functions:
 | Verbal Memory   | `verbal`       | `stop_key`                          |
 | Visual Memory   | `visual`       | `stop_key`                          |
 
-## Contributions
+## Contributing
 
 Contributions are welcome! If you have ideas for new features, optimizations, or improvements, feel free to fork the project and submit a pull request. You can also open issues for bug reports
