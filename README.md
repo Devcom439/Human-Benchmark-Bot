@@ -49,6 +49,10 @@ Before you can run the script, ensure you have the following installed:
    ```bash
    pip install selenium keyboard
    ```
+   or
+   ```bash
+   python -m pip install selenium keyboard
+   ```
 
 ## Usage
 
