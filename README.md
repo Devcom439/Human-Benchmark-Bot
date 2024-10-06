@@ -1,6 +1,6 @@
 # Human Benchmark Automation
 
-This project automates several tests from the [Human Benchmark](https://humanbenchmark.com/) website using Selenium. The automation script can perform tasks such as reaction time measurement, aim training, typing tests, memory tests (sequence, number, verbal, and visual), and more. Customizations like typing speed realism and stopping conditions for endless tests are also supported.
+This project automates several tests from the [Human Benchmark](https://humanbenchmark.com/) website using Selenium. The automation script can perform tasks such as reaction time measurement, aim training, typing tests, memory tests (sequence, number, verbal, and visual), and more. Customizations like typing speed, realism and stopping conditions for endless tests are also supported.
 
 ## Table of Contents
 
@@ -50,6 +50,7 @@ Before you can run the script, ensure you have the following installed:
    pip install selenium keyboard
    ```
    or
+   
    ```bash
    python -m pip install selenium keyboard
    ```
